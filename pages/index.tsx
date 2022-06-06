@@ -1,5 +1,3 @@
-import Link from 'next/link';
-
 const IndexPage = () => (
   <div className="flex justify-center items-center h-full w-full bg-gradient-to-t from-pink-500 to-yellow-500">
     <main className="w-1/2 h-2/3">
